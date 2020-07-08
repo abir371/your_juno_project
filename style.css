@@ -1,0 +1,298 @@
+
+
+
+body{
+	
+	background:linear-gradient(90deg,rgba(0,0,0,1)0%,rgba(0,212,255,1)100%);
+	
+}
+
+/* basic */
+
+*{
+	
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+
+.head{
+	
+	
+	background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url(img/background.jpg);
+	background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	 height:70vh;
+	background-attachment:fixed;
+}
+.main-nav{
+	
+	background:#fff;
+	height:5rem;
+}
+html{
+	
+	font-size:62%;
+}
+.logo{
+	margin-top:.5rem;
+}
+.main-nav{
+	
+	width:100%;
+	text-align:center;
+	
+}
+
+
+
+.main-menu li.li> a:hover{
+	
+	background:#000;
+	color:#fff;
+	
+}
+
+
+.main-menu li.li> a{
+	
+	text-decoration:none;
+	color:#000;
+	font-size:1rem;
+	font-size:1.3rem;
+	font-weight:300;
+	font-family:aharoni;
+	font-style:italic;
+	padding:.5rem 1rem;
+	transition:.5s ease;
+
+}
+
+
+.main-menu li{
+	
+	display:inline-block;
+	margin-left:1.5rem;
+	
+}
+
+.main-menu{
+ display:flex;
+ justify-content:center;
+ align-items:center;
+ line-height:0;
+}
+.text{
+	position:absolute;
+	top:30%;
+	left:50%;
+transform:translate(-50%,-50%);
+text-align:center;
+}
+
+.text p{
+	
+	color:#fff;
+	font-size:1.8rem;
+}
+.text h1{
+	
+	color:#fff;
+	font-size:3rem;
+	line-height:100px;
+}
+
+
+/* header finished */
+
+/* about progress bar */
+
+/* about start */
+
+.about-us{
+	height:70vh;
+background:#FFFFFF;
+	
+}
+.about-top p.p1{
+	margin-top:2rem;
+	margin-bottom:1rem;
+	color:gray;
+}
+h3.hrg{
+	
+	width:50%;
+	
+}
+
+
+
+
+
+/* bottom */
+
+
+.about-bottom{
+	
+text-align:center;
+}
+
+.about-bottom .box{
+	
+	border:1px solid #eee;
+      height:200px;
+	  margin-top:4rem;
+}
+.drop{
+	
+	margin-top:2rem;
+}
+p.p4{
+	
+	width:80%;
+	margin-top:2rem;
+	margin-left:2rem;
+	
+}
+.about-bottom .col:nth-child(3){
+	
+	margin-left:5px;
+	
+	
+	
+	
+}
+
+/* start shot */
+.shot{
+	background:linear-gradient(rgba(240,240,240, 0.6),rgba(240,240,240, 0.6)),url(img/back.jpg);
+	text-align:center;
+		background-size:cover;
+	background-position:center;
+	background-repeat:no-repeat;
+	
+	background-attachment:fixed;
+}
+
+.source{
+	
+	margin-bottom:4rem;
+}
+
+.source li a:hover{
+	
+	background:#fff;
+	color:black;
+}
+
+
+.source li a{
+	text-decoration:none;
+	color:#888888;
+	padding:.5rem;
+	color:#612A17;
+	font-size:1.3rem;
+	
+}
+
+.shot h2::after{
+	
+	content:'';
+	display:block;
+	clear:both;
+	height:.4rem;
+	background:#888888;
+	width:5rem;
+	margin:2rem auto;
+	box-shadow:1px 4px 1px #000;
+}
+
+.shot-top h2.do{
+	font-size:2rem;
+	color:#000;
+	padding-top:2rem;
+	margin-bottom:2rem;
+	font-weight:300;
+	letter-spacing:5px;
+	font-style:italic;
+}
+.shot p.it{color:#888888;
+	font-size:.8rem;
+	margin-bottom:2rem;
+	
+}
+.source li{
+	padding-left:1.5rem;
+	display:inline-block;
+}
+.shot:after{
+	
+	content:'';
+	display:block;
+	clear:both;
+	
+	
+	
+}
+.source{
+	
+	list-style:none;
+	
+}
+
+/* finished */
+.row:after{
+	content:'';
+	display:block;
+	clear:both;
+	
+}
+.tool{
+	float:left;
+	width:25%;
+	
+}
+
+.shot-bottom{
+	
+	max-width:1000px;
+	margin:auto;
+	
+}
+.shot-bottom .czz{
+	width:100px;
+	height:280px;
+	
+}
+
+.utern:hover{
+	
+	background:#570D17;
+}
+
+
+.utern{
+	
+	
+	background:#303030;
+	width:8rem;
+	color:#fff;
+	display:block;
+	margin:10px auto;
+	text-decoration:none;
+	
+	padding:15px;
+}
+
+/* happy srart */
+
+  
+  
+  
+  
+  
+  
+  
+  
